@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'JosefinSans';
+    src: url("../fonts/JosefinSans-Regular.ttf") format('truetype')
+}
+
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+body {
+    background-color: #6c18b6;
+    background-size: cover;
+}
