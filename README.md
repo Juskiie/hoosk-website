@@ -19,4 +19,5 @@ Down the line I hope to better utilise some of the features of Vite.
 ## About me
 I am not a (good) web developer. Most of my experience comes from languages like Java and Python, and while frameworks for building web apps exists for those, I have never really experimented much with them yet.
 That being said, this project has been a good learning opportunity for me to enhance my skillset and diversify my options.
-However, please don't use this project to actually make anything. Not because I'm going to get mad that you used my code, but because better solutions likely exist. This is just what I ended up doing.
+However, please don't use this project to actually make anything. Not because I'm going to get mad that you used my code, but because better solutions likely exist. 
+This is just what I ended up doing.

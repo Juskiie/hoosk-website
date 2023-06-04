@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^4.2.3"
-  }
+  },
+  "description": "I'm making this public so others may potentially learn from my experience!",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }
