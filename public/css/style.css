@@ -27,6 +27,10 @@
     transition: opacity 0.3s ease;
 }
 
+#hiddenContentGallery {
+    transition: opacity 0.3s ease;
+}
+
 .hidden {
     opacity: 0;
     pointer-events: none;
@@ -42,4 +46,8 @@
     100% {
         background-position: 0 50%;
     }
+}
+
+#galleryContainer {
+    transition: opacity 0.3s ease;
 }
