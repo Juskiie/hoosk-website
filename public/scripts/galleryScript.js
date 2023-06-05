@@ -9,7 +9,7 @@ const images = [
 	'./assets/image-3.PNG',
 	'./assets/image-4.PNG',
 	'./assets/image-5.JPG',
-	'./assets/image-6.JPG',
+	'./assets/ref-sheet.JPG',
 	'./assets/image-7.JPG',
 	'./assets/image-8.JPG',
 	'./assets/image-9.JPG',
