@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
+    "build:all": "tailwindcss build -i ./public/css/style.css -o dist/styles.css && vite build && vite preview",
     "build:css": "tailwindcss build -i ./public/css/style.css -o dist/styles.css",
     "dev": "vite",
     "build": "vite build",
