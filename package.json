@@ -17,7 +17,9 @@
   },
   "dependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
-    "fs": "^0.0.1-security"
+    "canvas": "^2.11.2",
+    "fs": "^0.0.1-security",
+    "particles.js": "^2.0.0"
   },
   "description": "I'm making this public so others may potentially learn from my experience!",
   "main": "postcss.config.js",

@@ -3,6 +3,8 @@ const currentImage = document.getElementById('currentImage');
 const prevButton = document.getElementById('prevButton');
 const nextButton = document.getElementById('nextButton');
 
+document.getElementById('particles-js').getElementsByClassName('particles-js-canvas-el')
+
 const images = [
 	'./assets/image-1.PNG',
 	'./assets/image-2.PNG',
