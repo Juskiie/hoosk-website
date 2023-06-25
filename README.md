@@ -1,5 +1,6 @@
 # My personal website source code! 
 I'm making this public so others may potentially learn from my experience!
+This is just a fun website I made and is not to be used professionally.
 
 ## Background
 I wanted to create a personal website for a long time, as something I could use for my CV, and for other professional reasons.
